@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-palace/static/css/main.a335212e.chunk.css",
+    "main.js": "/monsters-palace/static/js/main.3a60377d.chunk.js",
+    "main.js.map": "/monsters-palace/static/js/main.3a60377d.chunk.js.map",
+    "runtime-main.js": "/monsters-palace/static/js/runtime-main.ac71adab.js",
+    "runtime-main.js.map": "/monsters-palace/static/js/runtime-main.ac71adab.js.map",
+    "static/js/2.d671c762.chunk.js": "/monsters-palace/static/js/2.d671c762.chunk.js",
+    "static/js/2.d671c762.chunk.js.map": "/monsters-palace/static/js/2.d671c762.chunk.js.map",
+    "static/js/3.bd002ac1.chunk.js": "/monsters-palace/static/js/3.bd002ac1.chunk.js",
+    "static/js/3.bd002ac1.chunk.js.map": "/monsters-palace/static/js/3.bd002ac1.chunk.js.map",
+    "index.html": "/monsters-palace/index.html",
+    "static/css/main.a335212e.chunk.css.map": "/monsters-palace/static/css/main.a335212e.chunk.css.map",
+    "static/js/2.d671c762.chunk.js.LICENSE.txt": "/monsters-palace/static/js/2.d671c762.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac71adab.js",
+    "static/js/2.d671c762.chunk.js",
+    "static/css/main.a335212e.chunk.css",
+    "static/js/main.3a60377d.chunk.js"
+  ]
+}
